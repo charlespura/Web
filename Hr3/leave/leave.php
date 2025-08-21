@@ -42,15 +42,8 @@ ini_set('display_errors', 1);
 
 
         </div>
-<!-- Second Header: Submodules -->
-
-<div class="bg-gray-100 border-b px-6 py-3 flex gap-4 text-sm font-medium text-gray-700">
-  <a href="logs.php" class="hover:text-blue-600 transition-colors">Submodule1</a>
-  <a href="#" class="hover:text-blue-600 transition-colors">submodule 2</a>
-  <a href="#" class="hover:text-blue-600 transition-colors">Overtime Requests</a>
-  <a href="#" class="hover:text-blue-600 transition-colors">Holiday Setup</a>
-  <a href="#" class="hover:text-blue-600 transition-colors">Late In / Early Out</a>
-</div>
+   <?php include 'leavenavbar.php'; ?>
+  
     
     </div>
 

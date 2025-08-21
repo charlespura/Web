@@ -41,13 +41,9 @@ ini_set('display_errors', 1);
 
 
         </div>
-<!-- Second Header: Submodules -->
-<div class="bg-gray-100 border-b px-6 py-3 flex gap-4 text-sm font-medium text-gray-700">
-  <a href="#" class="hover:text-blue-600 transition-colors"> Submodule1</a>
-  <a href="#" class="hover:text-blue-600 transition-colors"> Submodule2</a>
 
-</div>
-       
+      <?php include 'claimsnavbar.php'; ?>
+  
 <div class="bg-white shadow-md rounded-2xl p-10 w-full mx-auto mt-10 mb-10">
   <!-- Add your content here -->
    dito mo lagay content nyo like add view delete
