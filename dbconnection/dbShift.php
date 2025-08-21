@@ -4,7 +4,7 @@
 $host = "localhost";      // Database host
 $user = "root";           // Your MySQL username
 $pass = "";               // Your MySQL password
-$db   = "Hr3_shiftschedule"; // Database name
+$db   = "hr3_shiftschedule"; // Database name
 
 // Create connection
 $conn = new mysqli($host, $user, $pass, $db);
